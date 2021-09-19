@@ -167,7 +167,7 @@ var navbar = document.getElementById("navBlock");
 var sticky = navbar.offsetTop;
 
 function goToHome() {
-        window.location.href = "../home.html"
+        window.location.href = "../index.html"
 }
     
 function card() {
